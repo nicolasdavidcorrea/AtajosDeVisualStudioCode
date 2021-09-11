@@ -1,0 +1,17 @@
+body{
+    background: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+p, a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    text-align: center;
+}
+
+.contenido{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
